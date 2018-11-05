@@ -1,2 +1,2 @@
 # dwsfiles
-Storage of publicly available file for dWealthServices.com 
+Storage of publicly available files for dWealthServices.com 
